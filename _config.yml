@@ -251,3 +251,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+####################
+# Google analytics #
+####################
+google_analytics: "G-14KQ6LX25C"
